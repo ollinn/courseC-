@@ -1,0 +1,2 @@
+D:\work\it gaz\c#\Lab 3\Ex1\Starter\GCDTestProject\obj\Debug\GCDTestProject.csproj.AssemblyReference.cache
+D:\work\it gaz\c#\Lab 3\Ex1\Starter\GCDTestProject\obj\Debug\GCDTestProject.csproj.CoreCompileInputs.cache
