@@ -1,0 +1,7 @@
+Log file status checked - Opened
+Collecting Started
+Measurement Taken: 601
+Measurement Taken: 505
+Measurement Taken: 999
+Log File Changed
+New Log File: D:\work\it gaz\c#\Labfiles-20220629T173553Z-001\Labfiles\Lab 10\Lab A\LogFile.txt
